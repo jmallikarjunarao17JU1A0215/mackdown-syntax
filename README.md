@@ -5,6 +5,7 @@
 ##### heading 5
 ###### heading 6
 *bold text*
+** bold**
 italic
 > bold
 1.order
