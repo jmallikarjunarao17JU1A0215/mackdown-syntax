@@ -47,5 +47,5 @@ int main()
  ## gmail link
  [gmail](https://jmallikarjunarao345@gmail.com)
 ## insert images
-![image](https://github.com/jmallikarjunarao17JU1A0215/mackdown-syntax/blob/master/royal.jpg)
+![royal](https://github.com/jmallikarjunarao17JU1A0215/mackdown-syntax/blob/master/royal.jpg)
 
