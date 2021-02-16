@@ -22,7 +22,13 @@ order list
  Inorder list
  -venky
  -phani
- 
-
+ ## code
+ ``` python
+ def fun():
+ printf("hi everyone")
+ ```
+```
+fun()
+```
 
  
