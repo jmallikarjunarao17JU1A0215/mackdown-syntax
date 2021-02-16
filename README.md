@@ -46,5 +46,6 @@ int main()
  [kits](https:// www.kits-anna.com)
  ## gmail link
  [gmail](https://jmallikarjunarao345@gmail.com)
- insert images
- ![royal](https://github.com/jmallikarjunarao17JU1A0215/mackdown-syntax.git)
+## insert images
+![image](https://github.com/jmallikarjunarao17JU1A0215/mackdown-syntax/blob/master/royal.jpg)
+
