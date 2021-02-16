@@ -31,4 +31,10 @@ order list
 fun()
 ```
 
- 
+## write a c program to print hello apssdc
+#include <stdio.h>
+int main()
+{
+ printf("hello world");
+ return 0
+ }
