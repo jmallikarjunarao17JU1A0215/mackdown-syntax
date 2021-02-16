@@ -7,12 +7,16 @@
 *bold text*
 ** bold**
 
-italic
+italicoptjyiopjktokjto[k;ll;96ofgl;ml
 > mallikaarjunaro
 1.order
 -unorder
 ## nested blockcode
 > my self
 >> added thing
+iurthipjrtihjkitjhk;fgjk;
+1. eee
+ 
 
 
+ 
