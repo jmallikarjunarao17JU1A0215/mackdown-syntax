@@ -45,5 +45,4 @@ int main()
  ## college website link 
  [kits](https:// www.kits-anna.com)
  ## gmail link
- [gmail](jmallikarjunarao345@gmail.com)
- 
+ [gmail](https://jmallikarjunarao345@gmail.com)
