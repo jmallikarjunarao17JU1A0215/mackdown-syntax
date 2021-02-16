@@ -42,4 +42,8 @@ int main()
  ```
  ##link
  [mali](https://www.example.com)
+ ## college website link 
+ [kits](https:// www.kits-anna.com)
+ ## gmail link
+ [gmail](jmallikarjunarao345@gmail.com)
  
