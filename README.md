@@ -19,7 +19,10 @@ order list
  1. mallikarjunara
  2. aravind
  3. lakshman 
-  
+ Inorder list
+ -venky
+ -phani
+ 
 
 
  
